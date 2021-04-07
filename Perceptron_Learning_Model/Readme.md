@@ -1,6 +1,6 @@
 # Perceptron Learning Algorithm:
 
-A perceptron isn't the Sigmoid neuron we use in ANNs or any deep learning networkS.
+A perceptron isn't the Sigmoid neuron we use in ANNs or any deep learning network's.
 
 ![Perceptron(1)](https://miro.medium.com/max/875/1*Fyapb-JRFJ-VtnLYLLXCwg.png)
 
