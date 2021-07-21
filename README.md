@@ -10,3 +10,4 @@ Deep learning is an AI function that mimics the workings of the human brain in p
 5. Stacked Auto-Encoders.
 6. Deep Boltzmann Machine (DBM)
 7. Deep Belief Networks (DBN)
+8. 
